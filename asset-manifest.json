@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/market-frontend/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/market-frontend/static/js/main.97e51d59.chunk.js",
-    "main.js.map": "/market-frontend/static/js/main.97e51d59.chunk.js.map",
+    "main.js": "/market-frontend/static/js/main.77b67623.chunk.js",
+    "main.js.map": "/market-frontend/static/js/main.77b67623.chunk.js.map",
     "runtime-main.js": "/market-frontend/static/js/runtime-main.acd33615.js",
     "runtime-main.js.map": "/market-frontend/static/js/runtime-main.acd33615.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/market-frontend/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.60edea4d.chunk.js": "/market-frontend/static/js/2.60edea4d.chunk.js",
     "static/js/2.60edea4d.chunk.js.map": "/market-frontend/static/js/2.60edea4d.chunk.js.map",
     "index.html": "/market-frontend/index.html",
-    "precache-manifest.f2a4b36ff3a9e10bb4b236ef4431cbd9.js": "/market-frontend/precache-manifest.f2a4b36ff3a9e10bb4b236ef4431cbd9.js",
+    "precache-manifest.5c9ad64bab30408efd562d063a728f5f.js": "/market-frontend/precache-manifest.5c9ad64bab30408efd562d063a728f5f.js",
     "service-worker.js": "/market-frontend/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/market-frontend/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/market-frontend/static/css/main.5ecd60fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.60edea4d.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.97e51d59.chunk.js"
+    "static/js/main.77b67623.chunk.js"
   ]
 }
